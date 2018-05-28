@@ -17,12 +17,13 @@ chmod +x drgit.sh
 sudo chmod +x drgit.sh
 ```
 ### File Execution
-  Then run the file from your terminal:
-  ```
-  ./drgit.sh
-  ```
-  Now you can use it
-  ![app](https://drive.google.com/uc?export=view&id=17EjKVkwPyMFyYEiWPwoe6pR0IVqw0Ju7)
+Then run the file from your terminal:
+```
+./drgit.sh
+```
+Now you can use it
+
+![app](https://drive.google.com/uc?export=view&id=17EjKVkwPyMFyYEiWPwoe6pR0IVqw0Ju7)
 
 ## Authors
   * **Jose Pablo Arce**
